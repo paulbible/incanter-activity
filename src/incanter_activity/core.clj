@@ -14,6 +14,7 @@
 ;; cd incanter-activity
 ;; lein repl
 ;; (ns incanter-activity.core)
+;; (show)
 
 
 ;;;; Activity ;;;;;
